@@ -11,4 +11,4 @@ build:
   project: Source/uacme.sln
   verbosity: normal
 artifacts: 
-  - path: '.\output\'
+  - path: '**\*.exe'
